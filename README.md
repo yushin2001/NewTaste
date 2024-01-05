@@ -1,6 +1,6 @@
-## Web Programming Group 18 Final Project - NewTaste
+# Web Programming Group 18 Final Project - NewTaste
 
-# Run the project
+## Run the project
 
 1. Install dependencies
    ```bash
@@ -53,10 +53,10 @@
    密碼：test123
    ```
 
-# 組員分工
+## Distribution of work
 
-李宇軒：後端，DB schema、auth、圖片儲存
+吳郁心: backend, including API, pusher and some frontend function (e.g. reservation). (Me)
 
-吳郁心：後端，API、pusher、少數前端（預訂功能）
+李宇軒: backend, including DB schema, NextAuth and image uploading function.
 
-劉倍嘉：前端、少數API（取得使用者名稱，以及根據使用者、餐點或餐點類型取得餐點資訊）
+劉倍嘉: frontend and some backend API（e.g. fetch data based on category）.
