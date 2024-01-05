@@ -59,4 +59,4 @@
 
 李宇軒: backend, including DB schema, NextAuth and image uploading function.
 
-劉倍嘉: frontend and some backend API（e.g. fetch data based on category）.
+劉倍嘉: frontend and some backend API (e.g. fetch data based on category).
